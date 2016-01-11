@@ -22,3 +22,7 @@ Input:
 Output:  
 
 Example: 
+- 1: Boxplots for test step k = 1.
+- 2: Boxplots for test step k = 2.
+- 3: Boxplots for test step k = 3.
+- 4: Boxplots for test step k = 4.
