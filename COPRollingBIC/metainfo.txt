@@ -14,7 +14,7 @@ Keywords: bic, copula, gumbel, HAC, nested Archimedean copula, plot
 
 See also: 
 
-Author: [New] + Ramona Steck
+Author[New]: Ramona Steck
 
 Submitted:  
 
