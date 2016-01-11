@@ -24,4 +24,4 @@ Input:
 
 Output:  
 
-Example: 
+Example: 'BIC calculated in a rolling window for Gauss copula, AC and HAC including dynamics of the parameters of HAC for the data at hand.'
