@@ -11,7 +11,7 @@ Keywords: copula, gumbel, HAC, nested Archimedean copula, critical-value, plot, 
 
 See also: 
 
-Author: [New] + Ramona Steck
+Author[New]: Ramona Steck
 
 Submitted:  
 
