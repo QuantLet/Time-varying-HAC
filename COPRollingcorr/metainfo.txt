@@ -22,3 +22,5 @@ Input:
 Output:  
 
 Example: 
+- 1: Pearsons correlation coefficient
+- 2: Kendalls Tau
