@@ -13,7 +13,8 @@ Keywords: copula, gumbel, HAC, nested Archimedean copula, plot
 
 See also: 
 
-Author: Ostap Okhrin, Simon Trimborn, [New] + Ramona Steck
+Author: Ostap Okhrin, Simon Trimborn
+Author[New]: Ramona Steck
 
 Submitted:  
 
