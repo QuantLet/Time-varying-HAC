@@ -25,3 +25,8 @@ Input:
 Output:  
 
 Example: 
+- 1: Structure and copula parameters for LCP with pre-simulated critical values.
+- 2: ML criterion and length of interval of homogeneity for LCP with pre-simulated critical values.
+- 3: Structure and copula parameters for LCP with adaptively simulated critical values.
+- 4: ML criterion and length of interval of homogeneity for LCP with adaptively simulated critical values.
+
