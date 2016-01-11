@@ -11,7 +11,7 @@ Keywords: Kendalls Tau, correlation, log-returns, plot, time varying
 
 See also: 
 
-Author: [New] + Ramona Steck
+Author[New]: Ramona Steck
 
 Submitted:  
 
