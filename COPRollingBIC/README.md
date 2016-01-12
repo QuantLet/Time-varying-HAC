@@ -19,17 +19,9 @@ returns of DAX, Dow Jones and Nikkei.'
 
 Keywords : bic, copula, gumbel, HAC, nested Archimedean copula, plot
 
-FALSE
-
 Author[New] : Ramona Steck
 
-FALSE
-
 Datafile : BIC, dates
-
-FALSE
-
-FALSE
 
 Example : 'BIC calculated in a rolling window for Gauss copula, AC and HAC including dynamics of
 the parameters of HAC for the data at hand.'
