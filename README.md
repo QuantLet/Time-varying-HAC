@@ -1,7 +1,8 @@
 
-![http://quantnet.wiwi.hu-berlin.de/style/banner.png](http://quantnet.wiwi.hu-berlin.de/style/banner.png)
+[<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="888" alt="Visit QuantNet">](http://quantlet.de/)
 
-## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **[COPRollingcorr](https://github.com/QuantLet/Time-varying-HAC/tree/master/COPRollingcorr)**
+
+## [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **[COPRollingcorr](https://github.com/QuantLet/Time-varying-HAC/tree/master/COPRollingcorr)**
 
 ## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **[COPRollingBIC](https://github.com/QuantLet/Time-varying-HAC/tree/master/COPRollingBIC)**
 
