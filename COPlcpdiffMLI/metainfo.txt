@@ -9,7 +9,7 @@ Keywords: copula, gumbel, HAC, maximum-likelihood, nested Archimedean copula, pl
 
 Author[New]: Ramona Steck
 
-Submitted: 27.02.2015 
+Submitted: 08.01.2016
 
 Datafile: AGumbel, BGumbel, dates 
 
