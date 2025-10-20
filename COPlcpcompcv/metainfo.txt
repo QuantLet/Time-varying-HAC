@@ -3,21 +3,15 @@ Name of Quantlet: COPlcpcompcv
 
 Published in: Time-varying Hierarchical Archimedean Copulas Using Adaptively Simulated Critical Values
 
-Description: 'Plots the distribution of the adaptively simulated critical values around the respective 
-pre-simulated critical value for all test steps of LCP. The red points mark the pre-simulated critical 
-values.'
+Description: 'Plots the distribution of the adaptively simulated critical values around the respective pre-simulated critical value for all test steps of LCP. The red points mark the pre-simulated critical values.'
 
-Keywords: copula, gumbel, HAC, nested Archimedean copula, critical-value, plot, boxplot
-
-See also: 
+Keywords: copula, gumbel, HAC, nested Archimedean copula, critical-value, plot, boxplot 
 
 Author[New]: Ramona Steck
 
-Submitted:  
+Submitted:  08.01.2016  
 
 Datafile: Acv, Bcv, qx
-
-Input: 
 
 Output:  
 
